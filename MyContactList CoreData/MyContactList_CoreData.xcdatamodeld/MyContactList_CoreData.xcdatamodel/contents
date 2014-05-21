@@ -5,11 +5,11 @@
         <attribute name="cellNumber" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="contactName" optional="YES" attributeType="String" syncable="YES"/>
-        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="homeEmail" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="phoneNumber" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="streetAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="workEmail" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="zipCode" optional="YES" attributeType="String" syncable="YES"/>
     </entity>
     <elements>
